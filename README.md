@@ -24,11 +24,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloresIgor&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<br><br>
-<div style="display: inline_block">
-  <a href="https://www.instagram.com/igor_flores13/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img alin="center" alt="Igor_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img alin="center" alt="Igor_CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" >
-  <img alin="center" alt="Igor_JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  
-</div>
+
