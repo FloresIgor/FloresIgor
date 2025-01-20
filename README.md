@@ -9,19 +9,5 @@
 
 ### 📊 Estatísticas
 
-<div>
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FloresIgor&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-</div>
-<div>
-<img 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloresIgor&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FloresIgor&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloresIgor&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9)
