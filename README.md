@@ -4,7 +4,7 @@
 - 🌱 HTML e CSS e começando a introdução ao JS
 - 👯 Projetos que trabalhem criação de sites e aplicações voltadas para matemácica ludica, jogos e passa tempo
 - 🤔 Estou procurando pessoas que possam testar funcionalidades e sugerir novos jogos 
-- ⚡ Fun fact: Comecei a aprender programação para por essas ideias de jogos lúdicos no ar, algo que posso ajudar a pensar a matemática de forma leve e descontraída sem a obricação do colégio
+- ⚡ Fun fact: Comecei a aprender programação para por essas ideias de jogos lúdicos no ar, algo que possa ajudar a pensar a matemática de forma leve e descontraída sem a obricação do colégio
 
 ### 📊 Estatísticas
 
